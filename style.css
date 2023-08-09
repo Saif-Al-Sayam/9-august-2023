@@ -1,0 +1,14 @@
+.box{
+	text-align: center;
+	background-color: gray;
+}
+.b1{
+	height: 70px;
+	background-color: green;
+	margin-bottom: 15px;
+}
+.b2{
+	height: 70px;
+	background-color: skyblue;
+	margin-bottom: 15px;
+}
